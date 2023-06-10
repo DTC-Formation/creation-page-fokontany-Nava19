@@ -38,6 +38,10 @@ body {
         font-size: 16px;
         transition: background-color 0.3s ease;
       }
-      input[type="submit"]:hover {
-        background-color: #ccc;
+      .login {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #D90368;
+        border-radius: 10px;
       }
