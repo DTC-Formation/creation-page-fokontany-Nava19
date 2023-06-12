@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #F75C03;
+    background-color: #655A7C;
   }
   .container {
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #D90368;
+    background-color: #AB92BF;
     border-radius: 10px;
   }
   h2 {
@@ -28,6 +28,27 @@ body {
       border: 1px solid #ccc;
       border-radius: 4px;
     }
+    input[type="password"]
+     {
+      width: 95%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+     }
+     input[type="number"]
+     {
+      width: 95%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+     }
+     input[type="date"]
+     {
+      width: 95%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+     }
     button[type="submit"] {
         background-color: #ccc;
         color: white;
@@ -42,6 +63,6 @@ body {
         max-width: 500px;
         margin: 0 auto;
         padding: 20px;
-        background-color: #D90368;
+        background-color: #AB92BF;
         border-radius: 10px;
       }
